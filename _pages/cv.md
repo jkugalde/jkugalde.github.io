@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Joakin Ugalde
+---
+Fablab manager, Faculty of Engineering, Universidad de Chile
+<br/><br/>
+
 Education
 ======
 * **BEng** in Mechanical Engineering, Universidad de Chile, 2016
@@ -26,6 +31,10 @@ Work experience
   * Universidad de Chile, Department of Mechanical Engineering, Robotics Laboratory
   * Duties included: Lead a team of undergraduates and MsC students in a soft robotics investigation project, lab finances, machinery maintenance, teaching assistant.
   * Supervisor: Professor Juan Cristóbal Zagal, PhD
+
+Awards
+======
+* **Best Paper in Biomimetics Finalist**: ROBIO-2016, Qingdao, China - _Design, Fabrication and Control of a Multi-Material–Multi-Actuator Soft Robot Inspired by Burrowing Worms_
 
 
 Skills
