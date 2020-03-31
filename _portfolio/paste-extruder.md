@@ -1,6 +1,6 @@
 ---
 title: "Syringe extruder"
-excerpt: "A Marlin-ified Replicator 2, with a syringe extruder adaptation for paste material>"
+excerpt: "A Marlin-ified Replicator 2, with a syringe extruder adaptation for paste material"
 collection: portfolio
 ---
 
