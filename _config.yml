@@ -181,8 +181,8 @@ collections:
     output: true
     permalink: /:collection/:path/
     order:
-      - laringoscope.md
-      - levitator.md
+        - laringoscope.md
+        - levitator.md
 
 
 # Defaults
