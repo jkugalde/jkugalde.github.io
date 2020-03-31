@@ -2,7 +2,7 @@
 title: "Video-Laringoscope"
 excerpt: "An SLA printed prototype of a laringoscope with a Wi-FI camera, for intubation."
 collection: portfolio
-date: december, 2019
+date: 10-12-2019
 ---
 
 ## Resume
