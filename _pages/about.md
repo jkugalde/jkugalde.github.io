@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [Assistant Professor of Earth Sciences](https://earthsciences.dartmouth.edu/people/c-brenhin-keller) at Dartmouth College.
+Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics in general. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), a Fablab located in the faculty of engineering at the Universidad de Chile.
 
 ---
 
-Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My research applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
+My thesis was a bio inspired soft robot with soft sensors, you can get more info in [Research Gate](https://www.researchgate.net/publication/332063464_An_earthworm-inspired_soft_robot_with_perceptive_artificial_skin) and watch a short video
+in [Youtube](https://www.youtube.com/watch?v=FZ2wraRIhEo).
+
+I’m one of the founders of the Robotics community at the engineering faculty, where we created fun robotics iniciatives to get the students interested and involved in robotics, such as [Duckietown Chile](http://duckietown.cl/) and [Beauchef Robotics Challenge](https://www.instagram.com/beauchefrc/).
 
 ---
 
-If you're looking for zircon eruption/deposition age estimation, try this [online Jupyter notebook](https://mybinder.org/v2/gh/brenhinkeller/BayeZirChron.c/master?filepath=julia%2Fdemo.ipynb) hosted by the Binder project. If you want to combine this with age-depth modelling, try [Chron.jl](https://github.com/brenhinkeller/Chron.jl) or the [Chron.jl Jupyter notebook](https://mybinder.org/v2/gh/brenhinkeller/Chron.jl/master?filepath=examples%2Fdemo.ipynb).
+I like to teach and invent machines. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad.
 
-If you're looking for weighted bootstrap resampling of whole-rock geochemical data, try [StatisticalGeochemistry](https://github.com/brenhinkeller/StatisticalGeochemistry) (Matlab), [StatGeochem.jl](https://github.com/brenhinkeller/StatGeochem.jl) (Julia), or the [StatGeochem.jl Jupyter notebook](https://mybinder.org/v2/gh/brenhinkeller/StatGeochem.jl/master?filepath=examples/BootstrapResamplingDemo.ipynb)
+I also enjoy cycling, playing guitar and solving my domestic problems with 3d printing, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs).

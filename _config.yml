@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "CBK"
 title_separator          : "-"
-name                     : &name "C. Brenhin Keller"
-description              : &description "geochemistry, geochronology, computational science"
-url                      : https://brenhinkeller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Joakin Ugalde"
+description              : &description "Mechanical engineer, maker"
+url                      : https://jkugalde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brenhinkeller/brenhinkeller.github.io"
+repository               : "jkugalde/jkugalde.github.io"
 teaser                   : "/images/Matanuska1.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "C. Brenhin Keller"
-  avatar           : "profile2.jpg"
-  bio              : "Assistant Professor<br>Earth Sciences<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
-  location         :
+  name             : "Joakin Ugalde"
+  avatar           : "profile.png"
+  bio              : "Mechanical Engineer, Universidad de Chile. Interested in robotics, digital fabrication and machines."
+  location         : "Santiago, Chile"
+  location         : "Universidad de Chile"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ&hl=en&oi=ao"
-  email            :
+  googlescholar    : "https://scholar.google.es/citations?user=KykjcygAAAAJ&hl=es"
+  email            : "jcugaldecas@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Joakin_Ugalde"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "brenhinkeller"
+  github           : "jkugalde"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jotaka.ug"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7400-9428"
+  orcid            : "http://orcid.org/0000-0002-6040-845X"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -107,10 +109,10 @@ author:
   twitter          :
   vine             :
   weibo            :
+  grabcad          : "https://grabcad.com/joakin.ugalde-1"
   xing             :
   youtube          :
   wikipedia        :
-  osf              : "https://osf.io/b7td9/"
   
 
 # Reading Files
