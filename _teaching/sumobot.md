@@ -12,6 +12,4 @@ Workshop about Arduino, electronics and 3D Printing aimed at high school student
 
 The workshop was held once a week during two months in the Fablab U de Chile, the students were beneficiaries of a Foundation, and the workshop finished with an event at the San Cristóbal Hill in Downtown Santiago.
 
-![A robot](/images/robot.png "One of the competing robots")
-
 Foundation involved: [FundacEK](http://fundacek.org/)

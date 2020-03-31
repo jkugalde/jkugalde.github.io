@@ -8,7 +8,11 @@ date: June-October 2018 and 2019
 location: "Santiago, Chile"
 ---
 
-We organized an open line follower robot tournament in the engineering faculty, the teams had to make their own robot, so we teach them how. The sessions were:
+We organized an open line follower robot tournament in the engineering faculty, the teams had to make their own robot, so we teach them how. 
+
+---
+
+The sessions were:
 
 - 3D Drawing
 - 3D Printing

@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* BEng in Mechanical Engineering, Universidad de Chile, 2016
+* **BEng** in Mechanical Engineering, Universidad de Chile, 2016
+* **Thesis**: [<i>Fabrication and characterization of a new soft robot based on a worm</i>](http://repositorio.uchile.cl/handle/2250/146772)
+* **Advisor**: [Juan Cristóbal Zagal](https://scholar.google.com/citations?user=_tGqLIEAAAAJ&hl=es)
 
 Work experience
 ======
-* _January, 2018 - currently_: **Workshops and academic projects manager**
+* **Workshops and academic projects manager**: _January, 2018 - currently_: 
   * Fablab U de Chile
   * Duties included: Create, organize and dictate workshops about digital fabrication, machinery maintenance, develop R+D projects, assist students and academics with projects.
   * Supervisor: Danisa Peric
 
-* _December, 2016 - December, 2017_ : **Lab Manager**
+* **Lab Manager**: _December, 2016 - December, 2017_ : 
   * Universidad de Chile, Department of Mechanical Engineering, Robotics Laboratory
   * Duties included: Lead a team of undergraduates and MsC students in a soft robotics investigation project, lab finances, machinery maintenance, teaching assistant.
   * Supervisor: Professor Juan Cristóbal Zagal, PhD
@@ -28,20 +30,20 @@ Work experience
 
 Skills
 ======
-* Design
+* **Design**
   * Autodesk Inventor Professional
   * Autodesk NetFabb
-* Manufacturing
+* **Manufacturing**
   * 3D printing
   * CNC Router
   * Lathe
   * Mill
-* Programming
+* **Programming**
   * C++
   * Python
   * Latex
   * Matlab
-* Electronics
+* **Electronics**
   * Arduino
   * Eagle
 
