@@ -8,7 +8,7 @@ collection: portfolio
 
 An SLA printed prototype of a laringoscope with a Wi-FI camera, for intubation. I cannot add more info as the project is still confidential. Printed in a Form2, the body is Dental SG resine, some mould were made with Clear resine to produce silicone seals.
 
-<img src="/images/_laringo.png" width="750">
+<img src="/images/_laringo.jpg" width="750">
 ---
 
 
