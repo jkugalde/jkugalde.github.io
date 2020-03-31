@@ -180,12 +180,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  fieldwork:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -201,13 +195,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -226,23 +213,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _fieldwork
-  - scope:
-      path: ""
-      type: fieldwork
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _portfolio
   - scope:
       path: ""
