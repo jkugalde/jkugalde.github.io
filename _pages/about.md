@@ -21,4 +21,4 @@ I’m one of the founders of the Robotics community at the engineering faculty, 
 
 I like to teach and invent machines. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad.
 
-I also enjoy cycling, playing guitar and solving my domestic problems with 3d printing, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and uploaded to my Instagram [account](https://www.instagram.com/jk__prints) about printing.
+I also enjoy cycling, playing guitar and solving my domestic problems with digital fabrication, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes i post photos in my Instagram account.
