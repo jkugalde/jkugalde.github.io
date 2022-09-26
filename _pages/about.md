@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics in general. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), a Fablab located in the faculty of engineering at the Universidad de Chile. You can read my CV [here](https://jkugalde.github.io/files/cv_2021.pdf).
+Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics in general. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), a Fablab located in the engineering faculty at the Universidad de Chile. You can read my CV [here](https://jkugalde.github.io/files/cv_2021.pdf).
 
 ---
 

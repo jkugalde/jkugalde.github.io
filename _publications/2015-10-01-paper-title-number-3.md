@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about our experience adapting the Duckietown project of the MIT as a second year course for engineering students at the faculty of engineering at Universidad de Chile.'
 date: October 2017
 venue: 'XXX Congreso SOCHEDI 2017'
-paperurl: 'https://www.researchgate.net/publication/320342938_Aprendizaje_Interdisciplinario_en_Robotica_La_Innovadora_Experiencia_de_Duckietown_Chile'
+paperurl: 
 
 ---
 
