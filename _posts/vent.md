@@ -1,6 +1,6 @@
 ---
 title: 'Developing emergency ventilators for the Corona outbreak'
-date: 2020-04-03
+
 permalink: /posts/2020/03/vent/
 tags:
   - pandemic
