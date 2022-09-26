@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        : "jotaka.ug"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/joakin-ugalde-4598a0153/"
   orcid            : "http://orcid.org/0000-0002-6040-845X"
   pinterest        :
   soundcloud       :
@@ -182,6 +182,9 @@ collections:
     order:
         - laringoscope.md
         - levitator.md
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
