@@ -1,7 +1,7 @@
 ---
 title: 'Developing emergency ventilators for the Corona outbreak'
-
-permalink: /posts/2020/03/vent/
+collection: posts
+permalink: /posts/vent/
 tags:
   - pandemic
   - corona
