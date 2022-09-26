@@ -179,9 +179,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-    order:
-        - laringoscope.md
-        - levitator.md
   posts:
     output: true
     permalink: /:collection/:path/

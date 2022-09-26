@@ -1,6 +1,6 @@
 ---
 title: "Video-Laringoscope"
-excerpt: "An SLA printed prototype of a laringoscope with a Wi-FI camera, for intubation."
+excerpt: "An SLA printed prototype of a laringoscope with a Wi-FI camera, for intubation. <br/><img src="/images/laringo.png" width="750">"
 collection: projects
 ---
 
