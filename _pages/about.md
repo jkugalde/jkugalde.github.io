@@ -21,4 +21,4 @@ I’m one of the founders of the Robotics community at the Universidad de Chile,
 
 I like to teach and invent machines. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad, or some projects that i have developed in my github page.
 
-I also enjoy cycling, playing guitar and solving my domestic problems with digital fabrication, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes post photos in my [Instagram](https://www.insagram.com/jotaka.ug) account.
+I also enjoy cycling, playing guitar and solving my domestic problems with digital fabrication, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes post photos in my [Instagram](https://www.instagram.com/jotaka.ug) account.
