@@ -4,7 +4,7 @@ layout: default
 
 {% include base_path %}
 
-{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
 
@@ -51,6 +51,8 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html %}
       </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>
