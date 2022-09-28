@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Robotics projects
-
 These are my main projects, in which i work from time to time. I have made some other stuff, but less fancy and more hardware focused, they are probably on my GrabCad page.
 
 ## N20 Servo module
@@ -19,7 +17,7 @@ I made a 3d printed housing for a N20 type dc motor and joint it with an angle s
 
 Using 2 N20 Servo modules i made a jumping robot. [Link](https://github.com/jkugalde/Jumping-robot) to the github repository.
 
-<img src="/images/leg.png" width="300">
+<img src="/images/Legs.png" width="300">
 
 ## Quadruped
 
