@@ -84,5 +84,16 @@ A 3d printed [laringoscope](https://jkugalde.github.io/portfolio/laringoscope/),
 
 <img src="/images/lar.png" width="300">
 
+## Persitaltic pump (Stepper)
+
+A [3d printed peristaltic pump](https://jkugalde.github.io/portfolio/ppdc/), uses a NEMA17 stepper motor.
+
+<img src="/images/ppstep.png" width="300">
+
+## Persitaltic pump (DC)
+
+A [3d printed peristaltic pump](https://jkugalde.github.io/portfolio/ppdc/), uses a DC motor and a load cell.
+
+<img src="/images/ppdc.png" width="300">
 
 
