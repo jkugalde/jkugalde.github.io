@@ -12,7 +12,7 @@ author_profile: true
 
 It is a small vise.
 
-<img src="/img/isovise.png" width="600">
+<img src="/images/isovise.png" width="600">
 
 ## Features
 
@@ -79,7 +79,7 @@ Crank | 1
 
 ## Assembly guide
 
-<img src="/img/imgdspc.png" width="800">
+<img src="/imgages/imgdspc.png" width="800">
 
 ### Preparing parts
 

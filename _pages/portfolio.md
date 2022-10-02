@@ -54,4 +54,11 @@ A [3d printed vise](https://jkugalde.github.io/portfolio/3dp-vise/), i use it on
 
 <img src="/images/isovise.png" width="300">
 
+## 3DP Lamp
+
+a [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on my workbench.
+
+<img src="/images/isolamp.png" width="300">
+
+
 
