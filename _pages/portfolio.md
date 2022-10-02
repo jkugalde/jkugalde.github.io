@@ -42,6 +42,12 @@ My thesis project, a worm-like soft robot with artificial skin. The worm develop
 
 # Other projects
 
+## T-Slot Workbench
+
+[Link](https://jkugalde.github.io/portfolio/tslottable/)
+
+<img src="/images/iso1.png" width="300">
+
 {% include base_path %}
 
 
