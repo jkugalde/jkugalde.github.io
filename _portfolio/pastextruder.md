@@ -16,5 +16,5 @@ Using different sizes of nozzle (2, 1 and 0.5 mm, printed with SLA), the machine
 
 <img src="/images/silicone.png" width="400">
 <img src="/images/clay1.png" width="400">
-<img src="/images/clay2r.png" width="400">
+<img src="/images/clay2.png" width="400">
 
