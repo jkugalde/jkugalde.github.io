@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-These are my main projects, in which i work from time to time. I have made some other stuff, but less fancy and more hardware focused, they are probably on my GrabCad page.
+These are my main projects, in which i work from time to time. I have made some other stuff, but less fancy and more hardware focused, they are probably on my GrabCad page or in "Other projects" at the bottom of this page.
 
 ## N20 Servo module
 
@@ -38,8 +38,9 @@ My thesis project, a worm-like soft robot with artificial skin. The worm develop
 <img src="/images/softwo.png" width="300">
 
 --------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
-## Other projects
+# Other projects
 
 {% include base_path %}
 
