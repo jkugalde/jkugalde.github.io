@@ -104,7 +104,7 @@ A [3d printed powder dispenser](https://jkugalde.github.io/portfolio/powderdispe
 
 ## Enclosed 3D printer
 
-I made an ]enclosed 3d printer](https://jkugalde.github.io/portfolio/jkprinter/) with the classical combination Arduino MEGA + RAMPs and T-Slots.
+I made an [enclosed 3d printer](https://jkugalde.github.io/portfolio/jkprinter/) with the classical combination Arduino MEGA + RAMPs and T-Slots.
 
 <img src="/images/jkprinter.png" width="300">
 
