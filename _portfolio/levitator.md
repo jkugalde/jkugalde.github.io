@@ -14,7 +14,7 @@ It is a replication of [THIS](https://www.instructables.com/Acoustic-Levitator/)
 
 <img src="/images/lev2.png" width="300">
 
-I made this project with [Bernardita Ried](http://bernarditaried.com/), and maaaan, did i fall in love.
+I made this project with [Bernardita Ried](http://bernarditaried.com/), and maaaan, did i fell in love.
 
 ---
 
