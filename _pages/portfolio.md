@@ -62,15 +62,16 @@ A [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on 
 
 ## 3DP electroacoustic levitator
 
-An electroacustic levitator made in collaboration with the physcis department of the Universidad de Chile.
+An [electroacustic levitator](https://jkugalde.github.io/portfolio/levitator/) made in collaboration with the physcis department of the Universidad de Chile.
 
 <img src="/images/levpic.jpg" width="300">
 
-## 3DP electroacoustic levitator
+## Rotocasting machine
 
-An electroacustic levitator made in collaboration with the physcis department of the Universidad de Chile.
+[Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) for resines. Made with aluminium profiles and Arduino. It uses belts as transmission.
 
-<img src="/images/levpic.jpg" width="300">
+<img src="/images/isoroto.png" width="300">
+
 
 
 
