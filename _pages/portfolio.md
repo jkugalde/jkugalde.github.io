@@ -116,6 +116,6 @@ A Marlin-ified Replicator 2, with a syringe extruder adaptation for [paste mater
 
 ## Biomonitor
 
-I made the encpasulation for a [wearable smart device]https://jkugalde.github.io/portfolio/biomonitor/) developed at the Universidad de Chile.
+I made the encpasulation for a [wearable smart device](https://jkugalde.github.io/portfolio/biomonitor/) developed at the Universidad de Chile.
 
 <img src="/images/biomimi1.png" width="300">
