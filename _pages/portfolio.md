@@ -56,9 +56,16 @@ A [3d printed vise](https://jkugalde.github.io/portfolio/3dp-vise/), i use it on
 
 ## 3DP Lamp
 
-a [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on my workbench.
+A [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on my workbench.
 
 <img src="/images/isolamp.png" width="300">
+
+## 3DP electroacoustic levitator
+
+An electroacustic levitator made in collaboration with the physcis department of the Universidad de Chile.
+
+<img src="/images/levpic.png" width="300">
+
 
 
 
