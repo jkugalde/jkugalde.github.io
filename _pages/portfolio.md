@@ -62,7 +62,7 @@ A [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on 
 
 ## 3DP electroacoustic levitator
 
-An [electroacustic levitator](https://jkugalde.github.io/portfolio/levitator/) made in collaboration with the physcis department of the Universidad de Chile.
+An [electroacustic levitator](https://jkugalde.github.io/portfolio/levitator/) made in collaboration with the physics department of the Universidad de Chile.
 
 <img src="/images/levpic.png" width="300">
 
@@ -86,7 +86,7 @@ A 3d printed [laringoscope](https://jkugalde.github.io/portfolio/laringoscope/),
 
 ## Persitaltic pump (Stepper)
 
-A [3d printed peristaltic pump](https://jkugalde.github.io/portfolio/ppdc/), uses a NEMA17 stepper motor.
+A [3d printed peristaltic pump](https://jkugalde.github.io/portfolio/ppstep/), uses a NEMA17 stepper motor.
 
 <img src="/images/ppstep.png" width="300">
 
