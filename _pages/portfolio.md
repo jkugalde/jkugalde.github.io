@@ -44,13 +44,14 @@ My thesis project, a worm-like soft robot with artificial skin. The worm develop
 
 ## T-Slot Workbench
 
-[Link](https://jkugalde.github.io/portfolio/tslottable/)
+A 3030 [T-Slot workbench](https://jkugalde.github.io/portfolio/tslottable/), with some plywood and 3dp parts.
 
 <img src="/images/iso1.png" width="300">
 
-{% include base_path %}
+## 3DP Vise
+
+A [3d printed vise](https://jkugalde.github.io/portfolio/3dp-vise/), i use it on my workbench to press fit and hold pieces.
+
+<img src="/images/isovise.png" width="300">
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
