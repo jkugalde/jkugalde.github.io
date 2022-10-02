@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "DIY Vacuum Former"
 excerpt: "A small vacuum former, made with aluminium profiles, a vacuum cleaner, Arduino and ceramic heaters."
 collection: portfolio

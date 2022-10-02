@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Paste extruder"
 excerpt: "A Marlin-ified Replicator 2, with a syringe extruder adaptation for paste material"
 collection: projects
