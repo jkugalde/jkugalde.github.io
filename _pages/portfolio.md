@@ -107,3 +107,9 @@ A [3d printed powder dispenser](https://jkugalde.github.io/portfolio/powderdispe
 I made an ]enclosed 3d printer](https://jkugalde.github.io/portfolio/jkprinter/) with the classical combination Arduino MEGA + RAMPs and T-Slots.
 
 <img src="/images/jkprinter.png" width="300">
+
+## Paste extruder
+
+A Marlin-ified Replicator 2, with a syringe extruder adaptation for [paste material](https://jkugalde.github.io/portfolio/pastextruder/).
+
+<img src="/images/pastextruder.png" width="300">
