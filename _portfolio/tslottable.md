@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "T-Slot Workbench"
-excerpt: "A workbench made with 3030 T-slots and plywood <img src="/images/iso1.png" width="300">"
+excerpt: "A workbench made with 3030 T-slots and plywood"
 collection: portfolio
 author_profile: true
 ---
