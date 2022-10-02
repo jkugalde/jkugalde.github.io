@@ -64,13 +64,19 @@ A [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on 
 
 An [electroacustic levitator](https://jkugalde.github.io/portfolio/levitator/) made in collaboration with the physcis department of the Universidad de Chile.
 
-<img src="/images/levpic.jpg" width="300">
+<img src="/images/levpic.png" width="300">
 
 ## Rotocasting machine
 
 [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) for resines. Made with aluminium profiles and Arduino. It uses belts as transmission.
 
 <img src="/images/isoroto.png" width="300">
+
+## Anet A8 Upgrade
+
+I [upgraded](https://jkugalde.github.io/portfolio/aneta8upgrade/) my Anet A8 with an aluminium frame.
+
+<img src="/images/isoanet.png" width="300">
 
 
 
