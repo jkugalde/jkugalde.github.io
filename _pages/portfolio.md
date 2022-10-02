@@ -113,3 +113,9 @@ I made an [enclosed 3d printer](https://jkugalde.github.io/portfolio/jkprinter/)
 A Marlin-ified Replicator 2, with a syringe extruder adaptation for [paste material](https://jkugalde.github.io/portfolio/pastextruder/).
 
 <img src="/images/pastextruder.png" width="300">
+
+## Biomonitor
+
+I made the encpasulation for a wearable smart device made at the Universidad de Chile [paste material](https://jkugalde.github.io/portfolio/biomonitor/).
+
+<img src="/images/biomimi1.png" width="300">
