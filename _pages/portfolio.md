@@ -37,6 +37,7 @@ My thesis project, a worm-like soft robot with artificial skin. The worm develop
 
 <img src="/images/softwo.png" width="300">
 
+--------------------------------------------------------------------------------------------
 
 ## Other projects
 
