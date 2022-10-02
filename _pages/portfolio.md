@@ -36,3 +36,12 @@ Using some spare parts and the remains of my ANETA8 i made a small SCARA robot a
 My thesis project, a worm-like soft robot with artificial skin. The worm developed a crawling gait inside cavities and had soft sensors acting as pressure and deformation sensors to control the algorithm.
 
 <img src="/images/softwo.png" width="300">
+
+## Other projects
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
