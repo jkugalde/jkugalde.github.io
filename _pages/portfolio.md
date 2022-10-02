@@ -78,7 +78,11 @@ I [upgraded](https://jkugalde.github.io/portfolio/aneta8upgrade/) my Anet A8 wit
 
 <img src="/images/isoanet.png" width="300">
 
+## Video laringoscope
 
+A 3d printed [laringoscope](https://jkugalde.github.io/portfolio/laringoscope/), it uses a Wi-Fi camera.
+
+<img src="/images/lar.png" width="300">
 
 
 
