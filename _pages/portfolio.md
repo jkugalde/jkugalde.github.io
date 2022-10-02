@@ -64,7 +64,13 @@ A [3d printed lamp](https://jkugalde.github.io/portfolio/3dplamp/), i use it on 
 
 An electroacustic levitator made in collaboration with the physcis department of the Universidad de Chile.
 
-<img src="/images/levpic.png" width="300">
+<img src="/images/levpic.jpg" width="300">
+
+## 3DP electroacoustic levitator
+
+An electroacustic levitator made in collaboration with the physcis department of the Universidad de Chile.
+
+<img src="/images/levpic.jpg" width="300">
 
 
 
