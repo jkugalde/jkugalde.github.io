@@ -96,4 +96,8 @@ A [3d printed peristaltic pump](https://jkugalde.github.io/portfolio/ppdc/), use
 
 <img src="/images/ppdc.png" width="300">
 
+## Powder dispenser
 
+A [3d printed powder dispenser](https://jkugalde.github.io/portfolio/powderdispenser/), uses a DC motor and a load cell.
+
+<img src="/images/isopowder.png" width="300">
