@@ -11,9 +11,11 @@ These are my main projects, in which i work from time to time after work. I have
 
 I made a 3d printed housing for a N20 type dc motor and joint it with an angle sensor (CJMCU-103). It controls shaft position using a PID control. [Link](https://github.com/jkugalde/N20-Servo-Module) to the github repository. 
 
+<img src="/images/module.png" width="300">
+
 Then, i added a torsion spring at the shaft and another sensor at the ouput to measure the deformation. With this, the actuator gains compliancy and torque sensing. This is not updated yet in the repository.
 
-<img src="/images/module.png" width="300">
+<img src="/images/seas.png" width="300">
 
 Using 2 of these N20 Servo modules i made a jumping robot. [Link](https://github.com/jkugalde/Jumping-robot) to the github repository.
 
@@ -21,7 +23,7 @@ Using 2 of these N20 Servo modules i made a jumping robot. [Link](https://github
 
 Naturally, i had to make a tetrapod using 4 of these leg modules equiped with the latest N20 servo design. I present to you, [Pochitabot](https://github.com/jkugalde/Pochitabot)
 
-<img src="/images/pochita.png" width="300">
+<img src="/images/bot.png" width="300">
 
 Probably the name will change in the future, as if it is matter of publication, the name must reflect the main characteristics, like Cheap Compliant Modular Printed robot, or something like that. The price of this robot is currently below 150 dollars.
 
