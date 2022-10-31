@@ -17,9 +17,11 @@ Then, i added a torsion spring at the shaft and another sensor at the ouput to m
 
 Using 2 of these N20 Servo modules i made a jumping robot. [Link](https://github.com/jkugalde/Jumping-robot) to the github repository.
 
+<img src="/images/Legs.png" width="300">
+
 Naturally, i had to make a tetrapod using 4 of these leg modules equiped with the latest N20 servo design. I present to you, [Pochitabot](https://github.com/jkugalde/Pochitabot)
 
-<img src="/images/pochi.png" width="300">
+<img src="/images/pochita.png" width="300">
 
 Probably the name will change in the future, as if it is matter of publication, the name must reflect the main characteristics, like Cheap Compliant Modular Printed robot, or something like that. The price of this robot is currently below 150 dollars.
 
