@@ -15,7 +15,7 @@ I made a 3d printed housing for a N20 type dc motor and joint it with an angle s
 
 Then, i added a torsion spring at the shaft and another sensor at the ouput to measure the deformation. With this, the actuator gains compliancy and torque sensing. This is not updated yet in the repository.
 
-<img src="/images/seass.png" width="300">
+<img src="/images/seact.png" width="300">
 
 Using 2 of these N20 Servo modules i made a jumping robot. [Link](https://github.com/jkugalde/Jumping-robot) to the github repository.
 
@@ -23,7 +23,7 @@ Using 2 of these N20 Servo modules i made a jumping robot. [Link](https://github
 
 Naturally, i had to make a tetrapod using 4 of these leg modules equiped with the latest N20 servo design. I present to you, [Pochitabot](https://github.com/jkugalde/Pochitabot)
 
-<img src="/images/bott.png" width="300">
+<img src="/images/po.png" width="300">
 
 Probably the name will change in the future, as if it is matter of publication, the name must reflect the main characteristics, like Cheap Compliant Modular Printed robot, or something like that. The price of this robot is currently below 150 dollars.
 
