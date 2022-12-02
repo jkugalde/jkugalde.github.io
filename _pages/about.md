@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics in general. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), located in the Faculty of Physical and Mathematical Sciences of the University of Chile. You can read my CV [here](https://jkugalde.github.io/files/CV2022.pdf).
+Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics in general. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), located in the Engineering School at the University of Chile
 
 ---
 
@@ -19,6 +19,6 @@ I’m one of the founders of the Robotics community at the Universidad de Chile,
 
 ---
 
-I like to teach and invent machines. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad, or some projects that i have developed in my github page.
+I like to teach engineering, and invent machines. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad, or some projects that i have developed in my github page.
 
 I also enjoy cycling, playing guitar and solving my domestic problems with digital fabrication, i have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes post photos in my [Instagram](https://www.instagram.com/jotaka.ug) account.
