@@ -62,8 +62,10 @@ Projects in wich i provided technical support to the researchers.
 
 1. [Metarpillar](https://www.sciencedirect.com/science/article/pii/S0264127521008406)
 2. [Soft modular robotics cubes](https://www.researchgate.net/publication/312121627_Soft_Modular_Robotic_Cubes_Toward_Replicating_Morphogenetic_Movements_of_the_Embryo)
-3. [Liquid on liquid printer](files/liquidprint.pdf)
+3. [Liquid on liquid printer](https://jkugalde.github.io/files/liquidprint.pdf)
 4. [3DP electroacoustic levitator](https://jkugalde.github.io/portfolio/levitator/)
+
+<img src="/images/colsup.png" width="750">
 
 # Freelance projects
 
