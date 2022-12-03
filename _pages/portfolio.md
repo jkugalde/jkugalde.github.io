@@ -14,10 +14,12 @@ Projects that i have been developing in my house at my free time.
 1. [N20 Robot project](https://github.com/jkugalde/Pochitabot) 
 2. [3DP SCARA Arm]((https://github.com/jkugalde/SCARA-3DP))
 3. [T-Slot Workbench](https://jkugalde.github.io/portfolio/tslottable/)
-4. [3DP vise](https://jkugalde.github.io/portfolio/3dp-vise/)
-5. [3DP lamp]((https://jkugalde.github.io/portfolio/3dplamp/))
-6. [Anet A8 upgrade](https://jkugalde.github.io/portfolio/aneta8upgrade/)
-7. [Original FDM 3D printer](https://jkugalde.github.io/portfolio/jkprinter/)
+4. [Anet A8 upgrade](https://jkugalde.github.io/portfolio/aneta8upgrade/)
+5. [Original FDM 3D printer](https://jkugalde.github.io/portfolio/jkprinter/)
+6. [3DP vise](https://jkugalde.github.io/portfolio/3dp-vise/)
+7. [3DP lamp](https://jkugalde.github.io/portfolio/3dplamp/)
+
+<img src="/images/personal.png" width="750">
 
 # Projects developed at the Robotics Lab
 
@@ -25,8 +27,9 @@ These are the main projects in which i work during my time as R.A in the robotic
 
 1. [Closed loop soft robot worm](https://github.com/jkugalde/SoftWorm)
 2. [Open loop soft robot worm](https://www.researchgate.net/publication/311101877_Design_Fabrication_and_Control_of_a_Multi-Material-Multi-Actuator_Soft_Robot_Inspired_by_Burrowing_Worms)
-3. Soft modular robots.
+3. [Soft modular robots](https://jkugalde.github.io/portfolio/softmodularrobots/)
 
+<img src="/images/medlab.png" width="750">
 
 # Projects developed at Fablab U de Chile
 
@@ -38,7 +41,7 @@ Projects that i have led at the Fablab U de Chile.
 + Vacuum former
 2. Mechanical Ventilator
 3. SILC
-4. (Biomonitor)(https://jkugalde.github.io/portfolio/biomonitor/)
+4. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
 5. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
 6. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
 7. Pellet extruder
