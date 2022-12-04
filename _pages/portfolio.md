@@ -50,6 +50,8 @@ Projects that i have led at the Fablab U de Chile.
 9. Rat restrainer
 10. 3DP Flow sensor
 
+<img src="/images/fab.png" width="750">
+
 Minor devices
 
 1. [Persitaltic pump (stepper)](https://jkugalde.github.io/portfolio/ppstep/) 
