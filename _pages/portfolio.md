@@ -58,6 +58,8 @@ Minor devices
 2. [Persitaltic pump (DC)](https://jkugalde.github.io/portfolio/ppdc/) 
 3. [Powder dispenser](https://jkugalde.github.io/portfolio/powderdispenser/)
 
+<img src="/images/devs.png" width="750">
+
 # Collaborations and supporting
 
 Documented projects i supported.
