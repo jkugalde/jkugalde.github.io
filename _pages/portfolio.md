@@ -77,3 +77,8 @@ Documented projects i supported.
 1. Paste dispenser for prune shears
 2. Peristaltic pump
 3. Wooden sheet slider
+
+# Art
+
+1. 3DP Guitar capo
+2. Guitar vase
