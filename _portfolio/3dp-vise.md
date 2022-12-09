@@ -79,7 +79,7 @@ Crank | 1
 
 ## Assembly guide
 
-<img src="/imgages/imgdspc.png" width="800">
+<img src="/images/imgdspc.png" width="800">
 
 ### Preparing parts
 

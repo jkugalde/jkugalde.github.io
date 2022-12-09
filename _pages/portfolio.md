@@ -13,7 +13,7 @@ Projects that i have been developing in my house at my free time.
 
 1. [N20 Robot project](https://github.com/jkugalde/Pochitabot)
 2. [N20 Servo Module](https://github.com/jkugalde/N20-Servo-Module) 
-3. [3DP SCARA Arm]((https://github.com/jkugalde/SCARA-3DP))
+3. [3DP SCARA Arm](https://github.com/jkugalde/SCARA-3DP)
 4. [T-Slot Workbench](https://jkugalde.github.io/portfolio/tslottable/)
 5. [Anet A8 upgrade](https://jkugalde.github.io/portfolio/aneta8upgrade/)
 6. [Original FDM 3D printer](https://jkugalde.github.io/portfolio/jkprinter/)
@@ -39,7 +39,7 @@ Projects that i have led at the Fablab U de Chile.
 1. Biomixer
 2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
 3. Vacuum former
-4. Mechanical Ventilator
+4. BAMB.U, an emergency mechanical ventilator
 5. SILC
 6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
 7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
@@ -53,8 +53,8 @@ Projects that i have led at the Fablab U de Chile.
 
 Minor devices
 
-1. [Persitaltic pump (stepper)](https://jkugalde.github.io/portfolio/ppstep/) 
-2. [Persitaltic pump (DC)](https://jkugalde.github.io/portfolio/ppdc/) 
+1. [Peristaltic pump (stepper)](https://jkugalde.github.io/portfolio/ppstep/) 
+2. [Peristaltic pump (DC)](https://jkugalde.github.io/portfolio/ppdc/) 
 3. [Powder dispenser](https://jkugalde.github.io/portfolio/powderdispenser/)
 
 <img src="/images/devs.png" width="750">
@@ -68,14 +68,13 @@ Documented projects i supported.
 3. [3DP electroacoustic levitator](https://jkugalde.github.io/portfolio/levitator/)
 4. [Liquid on liquid printer](https://jkugalde.github.io/files/liquidprint.pdf)
 
-
 <img src="/images/colsup.png" width="750">
 
 # Freelance projects
 
 1. SBF Robot cell
-2. Peristaltic pump
-3. Wooden sheet slider
+2. Peristaltic pump for glue
+3. Automatic dispenser for pruning paste
 
 <img src="/images/frel.png" width="750">
 
