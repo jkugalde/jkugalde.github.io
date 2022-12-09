@@ -36,19 +36,18 @@ These are the main projects in which i work during my time as R.A in the robotic
 
 Projects that i have led at the Fablab U de Chile.
 
-1. Biofabrication node
-+ [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
-+ Biomixer
-+ Vacuum former
-2. Mechanical Ventilator
-3. SILC
-4. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
-5. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
-6. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
-7. Pellet extruder
-8. Heater PID Box
-9. Rat restrainer
-10. 3DP Flow sensor
+1. Biomixer
+2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
+3. Vacuum former
+4. Mechanical Ventilator
+5. SILC
+6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
+7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
+8. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
+9. Pellet extruder
+10. Heater PID Box
+11. Rat restrainer
+12. 3DP Flow sensor
 
 <img src="/images/fab.png" width="750">
 
@@ -74,11 +73,15 @@ Documented projects i supported.
 
 # Freelance projects
 
-1. Paste dispenser for prune shears
+1. SBF Robot cell
 2. Peristaltic pump
 3. Wooden sheet slider
+
+<img src="/images/frel.png" width="750">
 
 # Art
 
 1. 3DP Guitar capo
 2. Guitar vase
+
+<img src="/images/art.png" width="750">
