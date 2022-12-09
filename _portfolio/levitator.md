@@ -6,7 +6,7 @@ collection: portfolio
 author_profile: true
 ---
 
-## Resume
+## Summary
 
 I collaborated with the physics department to make an electroacustic levitator and study suspended particles. The chasis is 3d printed, it works with an Arduino to produce the waves and a H-Bridge as driver for the emitters.
 

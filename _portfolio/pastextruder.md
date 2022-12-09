@@ -6,7 +6,7 @@ collection: projects
 author_profile: true
 ---
 
-## Resume
+## Summary
 
 The controller board for a Replicator2 exploded, so i replaced it with an Arduino Mega and Ramps, with the Marlin Firmware. Instead of using a filament extruder system i designed an hydraulic syringe extruder to print paste materials, which our Fablab was lacking. As the plunge of the syringe is pushed by a stepper motor, same as a common filament extruder, the new system was easily compatible with an usual 3D printer firmware such as Marlin, only some minor tweaks were done. Some files are at my [GrabCad site](https://grabcad.com/library/3d-printer-syringe-extruder-1).
 

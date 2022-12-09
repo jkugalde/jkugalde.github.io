@@ -6,7 +6,7 @@ collection: portfolio
 author_profile: true
 ---
 
-## Resume
+## Summary
 
 I made a simple T-Slot table, it makes me really happy because i finally have a place to work in my small apartment :D. It may be a little expensive (170 dollars buying the parts from the local store (in Chile) instead of aliexpressing them, without the plank or the 3d printed parts), but if you are not happy with it you can always disassemble it a made another project with the parts, all hail the modular construction systems!
 

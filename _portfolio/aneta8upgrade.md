@@ -6,7 +6,7 @@ collection: portfolio
 author_profile: true
 ---
 
-# Resume
+# Summary
 
 I have an Anet A8, it was the cheapest 3d printer in the market around the time that i bought it (2019) and served its purpose well enough, but now with the pandemic lockdown i have enough time to invest in get some major upgrades done. 
 

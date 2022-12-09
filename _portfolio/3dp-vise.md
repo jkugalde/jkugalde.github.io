@@ -6,7 +6,7 @@ collection: portfolio
 author_profile: true
 ---
 
-# Resume
+# Summary
 
 [![CC BY 4.0][cc-by-sa-shield]][cc-by-sa]
 

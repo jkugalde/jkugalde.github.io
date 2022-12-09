@@ -6,7 +6,7 @@ collection: portfolio
 author_profile: true
 ---
 
-# Resume
+# Summary
 
 My take on making a small peristaltic pump, using 3d printed parts and a DC motor. It has been tested successfully with glycerine, and controlled in an open and closed loop system, which are included in [THIS](https://github.com/jkugalde/3DP-Peristaltic-pump-DC) repository.
 

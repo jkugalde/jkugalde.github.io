@@ -36,18 +36,18 @@ These are the main projects in which i work during my time as R.A in the robotic
 
 Projects that i have led at the Fablab U de Chile.
 
-1. Biomixer
+1. [Biomixer](https://jkugalde.github.io/portfolio/biomixer/)
 2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
-3. Vacuum former
-4. BAMB.U, an emergency mechanical ventilator
-5. SILC
+3. [Vacuum former](https://jkugalde.github.io/portfolio/vacuum-former/) 
+4. [BAMB.U, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
+5. [SILC (short impact load cell)](https://jkugalde.github.io/portfolio/silc/)
 6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
 7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
 8. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
-9. Pellet extruder
-10. Heater PID Box
-11. Rat restrainer
-12. 3DP Flow sensor
+9. [Pellet extruder](https://jkugalde.github.io/portfolio/pellet/)
+10. [Injector](https://jkugalde.github.io/portfolio/injector/)
+11. [Rat restrainer](https://jkugalde.github.io/portfolio/ratres/)
+12. [3DP Flow sensor](https://jkugalde.github.io/portfolio/flowi/)
 
 <img src="/images/fab.png" width="750">
 
@@ -72,15 +72,15 @@ Documented projects i supported.
 
 # Freelance projects
 
-1. SBF Robot cell
-2. Peristaltic pump for glue
-3. Automatic dispenser for pruning paste
+1. [SBF Robot cell](https://jkugalde.github.io/portfolio/sbf/)
+2. [Peristaltic pump for glue](https://jkugalde.github.io/portfolio/pglue/)
+3. [Automatic dispenser for pruning paste](https://jkugalde.github.io/portfolio/prune/)
 
 <img src="/images/frel.png" width="750">
 
 # Art
 
-1. 3DP Guitar capo
-2. Guitar vase
+1. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
+2. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
 
 <img src="/images/art.png" width="750">
