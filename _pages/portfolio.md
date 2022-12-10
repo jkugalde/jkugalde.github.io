@@ -45,8 +45,8 @@ Projects that i have led at the Fablab U de Chile.
 7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
 8. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
 9. [Pellet extruder](https://jkugalde.github.io/portfolio/pellet/)
-10. [Injector](https://jkugalde.github.io/portfolio/injector/)
-11. [Rat restrainer](https://jkugalde.github.io/portfolio/ratres/)
+10. [Rat restrainer](https://jkugalde.github.io/portfolio/ratres/)
+11. [Injector](https://jkugalde.github.io/portfolio/injector/)
 12. [3DP Flow sensor](https://jkugalde.github.io/portfolio/flowi/)
 
 <img src="/images/fab.png" width="750">
