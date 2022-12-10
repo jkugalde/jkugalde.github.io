@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "3dpcapo"
+title: "3DP guitar capo"
 excerpt: "..."
 collection: portfolio
 author_profile: true
