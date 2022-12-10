@@ -20,17 +20,17 @@ The goal was to study the actuated behavior of multiple structures built with in
 
 I obtained interesting results, but dropped the project as i accepted another job. The work remains unpublished.
 
-<img src="/images/colsup.png" width="750">
+<img src="/images/fabpos.png" width="750">
 
 The fabrication process.
 
-<img src="/images/colsup.png" width="400">
+<img src="/images/actt.png" width="400">
 
 The actuation module.
 
-<img src="/images/colsup.png" width="750">
+<img src="/images/movecub.png" width="750">
 
-<img src="/images/colsup.png" width="750">
+<img src="/images/rob2.png" width="750">
 
 Two of the configurations, developing a crawling gait.
 
