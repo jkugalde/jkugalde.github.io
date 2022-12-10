@@ -6,10 +6,9 @@ collection: portfolio
 author_profile: true
 ---
 
-## Resume
+## Summary
 
-The idea was to built a cheap and small vacuum former to be used in the FabLab Universidad de Chile for experimentation with materials and shapes. The project will be documented on my Github and the CAD files will be in my GrabCad site.
-
+The idea was to built a cheap and small vacuum former to be used in the FabLab Universidad de Chile for experimentation with materials and shapes. 
 ---
 
 The machine is being overhauled and biomaterial sheets are being tested, with extraordinary results as seen in the figures below.

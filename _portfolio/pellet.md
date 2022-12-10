@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "BAMB.U"
+title: "Pellet Extruder"
 excerpt: "..."
 collection: portfolio
 author_profile: true

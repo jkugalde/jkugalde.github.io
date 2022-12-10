@@ -39,7 +39,7 @@ Projects that i have led at the Fablab U de Chile.
 1. [Biomixer](https://jkugalde.github.io/portfolio/biomixer/)
 2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
 3. [Vacuum former](https://jkugalde.github.io/portfolio/vacuum-former/) 
-4. [BAMB.U, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
+4. [B.AMBU, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
 5. [SILC (short impact load cell)](https://jkugalde.github.io/portfolio/silc/)
 6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
 7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
