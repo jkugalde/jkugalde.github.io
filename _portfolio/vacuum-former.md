@@ -9,7 +9,6 @@ author_profile: true
 ## Summary
 
 The idea was to built a cheap and small vacuum former to be used in the FabLab Universidad de Chile for experimentation with materials and shapes. 
----
 
 The machine is being overhauled and biomaterial sheets are being tested, with extraordinary results as seen in the figures below.
 

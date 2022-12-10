@@ -80,7 +80,8 @@ Documented projects i supported.
 
 # Art
 
-1. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
-2. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
+1. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
+2. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
+3. [Kitsune mask](https://jkugalde.github.io/portfolio/mask/)
 
 <img src="/images/art.png" width="750">
