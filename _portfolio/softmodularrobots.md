@@ -18,7 +18,7 @@ The goal was to study the actuated behavior of multiple structures built with in
 - Write a program with Arduino to control the robots.
 - Characterize the behaviour of the robots using a tracking device.
 
-I obtained interesting results, but dropped the project as i accepted another job. The work remains unpublished.
+I obtained interesting results, but dropped the project as i accepted another job. The data and findings remain unpublished.
 
 <img src="/images/fabpos.png" width="750">
 

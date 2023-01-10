@@ -29,6 +29,7 @@ These are the main projects in which i work during my time as R.A in the robotic
 1. [Closed loop soft robot worm](https://github.com/jkugalde/SoftWorm)
 2. [Open loop soft robot worm](https://www.researchgate.net/publication/311101877_Design_Fabrication_and_Control_of_a_Multi-Material-Multi-Actuator_Soft_Robot_Inspired_by_Burrowing_Worms)
 3. [Soft modular robots](https://jkugalde.github.io/portfolio/softmodularrobots/)
+4. [Soft sensor printer](https://jkugalde.github.io/portfolio/softprinter/)
 
 <img src="/images/medlab.png" width="750">
 
