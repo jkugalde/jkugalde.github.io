@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-UNDER CONSTRUCTION
+Last update: December, 2022
 
 # Personal projects
 
