@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. I'm currently working at the [Fablab U de Chile](http://www.fablab.uchile.cl/), located in the Engineering School at the University of Chile where I also teach some engineering courses. I was accepted in the Laurea Magistrale in Mechanical Engineering program at Politecnico di Milano, which I plan to start on the fall of 2024. My CV is [here](https://jkugalde.github.io/files/JUgalde_2024.pdf)
+Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I'm currently studying a master of science in mechanical engineering at Politecnico di Milano, specializing on mechatronics and robotics. I spent most of my professional life working at the University of Chile in different roles, such as research assistant, fablab staff, project developer, lecturer. My CV is [here](https://jkugalde.github.io/files/JUgalde_2024.pdf)
 
 ---
 
@@ -19,6 +19,6 @@ I’m one of the founders of the Robotics community at the Universidad de Chile,
 
 ---
 
-I like to teach create machines and devices. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad, or some projects that I have developed in my github page.
+I enjoy creating machines and devices. You can check some of my drawings at my [site](https://grabcad.com/joakin.ugalde-1) in GrabCad (I think you need an account), or some projects that I have developed in my github page.
 
-I also enjoy cycling, playing guitar, taking photos, and solving my domestic problems with digital fabrication, I have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes post photos in my [Instagram](https://www.instagram.com/jotaka.ug) account. Some of my photos are also on [Behance](https://www.behance.net/joakinugalde). Sometimes I make guitar tabs for songs or make my own guitar arrangements to play solo, they are on [Ultimate Guitar](https://www.ultimate-guitar.com/u/jcugaldecas), in Cifra Club and in my Youtube channel.
+I also enjoy cycling, playing guitar, taking photos, and solving my domestic problems with digital fabrication, I have some of the designs in [Thingiverse](https://www.thingiverse.com/JKUgalde/designs) and sometimes post photos in my [Instagram](https://www.instagram.com/jotaka.ug) account. Some of my photos are also on [Behance](https://www.behance.net/joakinugalde). Sometimes I make guitar tabs for songs or make my own guitar arrangements to play solo, they are on [Ultimate Guitar](https://www.ultimate-guitar.com/u/jcugaldecas), in Cifra Club and in my [Youtube](https://www.youtube.com/watch?v=VmIDZGeT_ZI) channel.
