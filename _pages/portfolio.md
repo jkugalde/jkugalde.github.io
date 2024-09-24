@@ -1,88 +1,96 @@
 ---
+
 layout: archive
 title: "Projects"
 permalink: /portfolio/
 author_profile: true
+
 ---
 
-Last update: December, 2022
+Last update: September, 2024
+
+This is a compilation of projects that I think are worth to mention. Some of the links will take you to other pages in this site, while others will lead you to Github, Grabcad or Instagram.
 
 # Personal projects
 
-Projects that i have been developing in my house at my free time. 
+Projects that I have been developing in my house at my free time. 
 
-1. [N20 Robot project](https://github.com/jkugalde/Pochitabot)
-2. [N20 Servo Module](https://github.com/jkugalde/N20-Servo-Module) 
-3. [3DP SCARA Arm](https://github.com/jkugalde/SCARA-3DP)
-4. [T-Slot Workbench](https://jkugalde.github.io/portfolio/tslottable/)
-5. [Anet A8 upgrade](https://jkugalde.github.io/portfolio/aneta8upgrade/)
-6. [Original FDM 3D printer](https://jkugalde.github.io/portfolio/jkprinter/)
-7. [3DP vise](https://jkugalde.github.io/portfolio/3dp-vise/)
-8. [3DP lamp](https://jkugalde.github.io/portfolio/3dplamp/)
+### 1. [N20 Quadruped robot project](https://github.com/jkugalde/Pochitabot)
 
-<img src="/images/personal.png" width="750">
+<img src ="https://i.imgur.com/XjRepFi.jpeg" width="600">
 
-# Projects developed at the Robotics Lab
+### 2. [3DP SCARA Arm](https://github.com/jkugalde/SCARA-3DP)
 
-These are the main projects in which i work during my time as R.A in the robotics lab of the mechanical engineering department at the University of Chile.
+<img src ="https://i.imgur.com/l6rDe6A.png" width="400">
 
-1. [Closed loop soft robot worm](https://github.com/jkugalde/SoftWorm)
-2. [Open loop soft robot worm](https://www.researchgate.net/publication/311101877_Design_Fabrication_and_Control_of_a_Multi-Material-Multi-Actuator_Soft_Robot_Inspired_by_Burrowing_Worms)
-3. [Soft modular robots](https://jkugalde.github.io/portfolio/softmodularrobots/)
-4. [Soft sensor printer](https://jkugalde.github.io/portfolio/softprinter/)
+### 3. [Anet A8 Marlinification](https://jkugalde.github.io/portfolio/aneta8upgrade/)
 
-<img src="/images/medlab.png" width="750">
+<img src ="https://i.imgur.com/2vLRb1v.png" width="550">
+
+# Soft robotics at the University of Chile
+
+These are the main projects in which I work, mostly during my time as R.A in the robotics lab in mechanical engineering department at the University of Chile. 
+
+### 1. [Soft robot worm](https://github.com/jkugalde/SoftWorm)
+
+<img src ="https://i.imgur.com/lJXCLit.png" width="550">
+
+### 2. [Soft modular robots](https://jkugalde.github.io/portfolio/softmodularrobots/)
+
+<img src ="https://i.imgur.com/KftGXuz.png)" width="350">
+
+### 3. [Liquid on liquid printer](https://jkugalde.github.io/portfolio/softprinter/)
+
+<img src ="https://i.imgur.com/NDDGl3u.png)" width="500">
 
 # Projects developed at Fablab U de Chile
 
-Projects that i have led at the Fablab U de Chile.
+(THIS SECTION IS IN CONSTRUCTION)
 
-1. [Biomixer](https://jkugalde.github.io/portfolio/biomixer/)
-2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
-3. [Vacuum former](https://jkugalde.github.io/portfolio/vacuum-former/) 
-4. [B.AMBU, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
-5. [SILC (short impact load cell)](https://jkugalde.github.io/portfolio/silc/)
-6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
-7. [Video Laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
-8. [Paste Extruder](https://jkugalde.github.io/portfolio/pastextruder/)
-9. [Pellet extruder](https://jkugalde.github.io/portfolio/pellet/)
-10. [Rat restrainer](https://jkugalde.github.io/portfolio/ratres/)
-11. [Injector](https://jkugalde.github.io/portfolio/injector/)
+### 1. [Biomixer](https://jkugalde.github.io/portfolio/biomixer/)
+### 2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
+### 3. [Vacuum former](https://jkugalde.github.io/portfolio/vacuum-former/) 
+### 4. [B.AMBU, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
+### 5. [SILC-a, rock impact testing machine](https://jkugalde.github.io/portfolio/silc/)
+### 6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
+### 7. [Video laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
+### 8. [Paste extruder](https://jkugalde.github.io/portfolio/pastextruder/)
+### 9. [Scaffolding for bone regenerating  implant](https://jkugalde.github.io/portfolio/pellet/)
+### 10. [Moulded parts for museum installation](https://jkugalde.github.io/portfolio/pellet/)
+
+
 12. [3DP Flow sensor](https://jkugalde.github.io/portfolio/flowi/)
 
-<img src="/images/fab.png" width="750">
+##### Minor devices
 
-Minor devices
+### 1. [Peristaltic pumps](https://jkugalde.github.io/portfolio/ppstep/) 
+### 2. [Powder dispensers](https://jkugalde.github.io/portfolio/powderdispenser/)
+### 3. [3DP electroacoustic levitator](https://jkugalde.github.io/portfolio/levitator/)
 
-1. [Peristaltic pump (stepper)](https://jkugalde.github.io/portfolio/ppstep/) 
-2. [Peristaltic pump (DC)](https://jkugalde.github.io/portfolio/ppdc/) 
-3. [Powder dispenser](https://jkugalde.github.io/portfolio/powderdispenser/)
 
-<img src="/images/devs.png" width="750">
-
-# Collaborations and supporting
-
-Documented projects i supported.
-
-1. [Metarpillar](https://www.sciencedirect.com/science/article/pii/S0264127521008406)
-2. [Soft modular robotics cubes](https://www.researchgate.net/publication/312121627_Soft_Modular_Robotic_Cubes_Toward_Replicating_Morphogenetic_Movements_of_the_Embryo)
-3. [3DP electroacoustic levitator](https://jkugalde.github.io/portfolio/levitator/)
-4. [Liquid on liquid printer](https://jkugalde.github.io/files/liquidprint.pdf)
-
-<img src="/images/colsup.png" width="750">
 
 # Freelance projects
 
-1. [SBF Robot cell](https://jkugalde.github.io/portfolio/sbf/)
-2. [Peristaltic pump for glue](https://jkugalde.github.io/portfolio/pglue/)
-3. [Automatic dispenser for pruning paste](https://jkugalde.github.io/portfolio/prune/)
+(THIS SECTION IS IN CONSTRUCTION)
 
-<img src="/images/frel.png" width="750">
+### 1. [SBF Robot cell](https://jkugalde.github.io/portfolio/sbf/)
+### 2. [Peristaltic pump for glue](https://jkugalde.github.io/portfolio/pglue/)
+### 3. [Automatic dispenser for pruning paste](https://jkugalde.github.io/portfolio/prune/)
 
-# Art
+# Digital craftmanship
 
-1. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
-2. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
-3. [Kitsune mask](https://jkugalde.github.io/portfolio/mask/)
+### 1. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
 
-<img src="/images/art.png" width="750">
+<img src ="https://i.imgur.com/C1g62Bw.png" width="400">
+
+### 2. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
+
+<img src ="https://i.imgur.com/TpreHJI.png" width="400">
+
+### 3. [Kitsune mask](https://jkugalde.github.io/portfolio/mask/)
+
+<img src ="https://i.imgur.com/nRH6E03.png" width="400">
+
+### 4. [Maracas llaneras](https://www.thingiverse.com/thing:6457595)
+
+<img src ="https://i.imgur.com/oKGwwFS.png" width="400">

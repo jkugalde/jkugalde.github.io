@@ -1,18 +1,14 @@
 ---
 layout: archive
-title: "Anet A8 upgrade"
+title: "Anet A8 marlinification"
 excerpt: "sfdfdfdsfdd."
 collection: portfolio
 author_profile: true
 ---
 
-# Summary
+I had an Anet A8, it was the cheapest 3d printer in the market around the time that I bought it (2019) and served its purpose well enough, but now with the pandemic lockdown I have enough time to invest in some upgrades and some learning.
 
-I have an Anet A8, it was the cheapest 3d printer in the market around the time that i bought it (2019) and served its purpose well enough, but now with the pandemic lockdown i have enough time to invest in get some major upgrades done. 
-
-This is a work in progress and i currently have only modified the frame, from acrylic to aluminium. I am planning to change the controller to one of the latest with touch screen compatibility, to make and enclosure to reduce heat dissipation and noise and maybe modify the mechanical arrangement to a corexy or something like that.
-
-This is what i currently have:
+First, I dissasembled the chasis and make my own with aluminium extrusions, doing a cubed shape.
 
 <img src="/images/design.png" width="750">
 
@@ -207,13 +203,10 @@ Remember to level the bed. In my printer i also have a glass bed from an Ender3.
 
 <img src="/images/done.png" width="500">
 
-# Further work
+# Enclosing
 
-- Change the controller
-- Build the enclosure
-- Change the mechanical principle
+Finally, using some aluminium/foam sheets I enclosed the volume and replaced the controller with an Arduino MEGA/RAMPS combo. All those file are lost forever :c (in my old laptop), but I made a nice [video](https://www.youtube.com/watch?v=CzlXuUR0WlY) of the printer and there are some [pics](https://www.instagram.com/p/CFLckdcHANF/?igsh=MXFvcW15MXFoa3Fydg==) in my Instagram.
 
-With the current setting the usable printing area will 250x210 mm (X x Y) so it is a good idea to get a borosilicate glass bed to attach (remember to use only three bolts in the bed). There is a loss of Y space as i put the glass bed with metal clips, also because of the design, with other configuration you could get an extra 5-6 centimeters without the bed crashing into the enclosure.
 
 
 

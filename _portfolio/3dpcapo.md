@@ -6,11 +6,9 @@ collection: portfolio
 author_profile: true
 ---
 
-## Summary
+I love playing guitar, but I did not liked capos until I found the spanish design. As a maker, I obviously tried to make one.
 
-I love playing guitar, but i do not like capos, until i found the spanish design. As a maker, i obviously tried to make one.
-
-It is 3d printed in wood-like filament, then sanded and painted. IT REALLY LOOKS LIKE WOOD, i am very satisfied with it.
+It is 3d printed in wood-like filament, then sanded and painted. IT REALLY LOOKS LIKE WOOD, I am very satisfied with it.
 
 <img src="/images/caps.png" width="700">
 
