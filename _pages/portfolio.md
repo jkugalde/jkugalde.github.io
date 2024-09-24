@@ -15,7 +15,7 @@ This is a compilation of projects that I think are worth to mention. Some of the
 
 Projects that I have been developing in my house at my free time. 
 
-### 1. [N20 Quadruped robot project](https://github.com/jkugalde/Pochitabot)
+### 1. [N20 Quadruped robot project](https://jkugalde.github.io/portfolio/quad/)
 
 <img src ="https://i.imgur.com/XjRepFi.jpeg" width="600">
 
@@ -31,7 +31,7 @@ Projects that I have been developing in my house at my free time.
 
 These are the main projects in which I work, mostly during my time as R.A in the robotics lab in mechanical engineering department at the University of Chile. 
 
-### 1. [Soft robot worm](https://github.com/jkugalde/SoftWorm)
+### 1. [Soft robot worm](https://jkugalde.github.io/portfolio/worms/)
 
 <img src ="https://i.imgur.com/lJXCLit.png" width="550">
 
