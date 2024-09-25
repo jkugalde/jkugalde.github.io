@@ -20,7 +20,7 @@ As breaking down servo motors was not a good idea, I decided to use a small angl
 
 I knew that for a smooth walking certain compliancy is needed, so I put a torsional spring at the output of the shaft in the module. Also, I included another angle sensor (so there is one in the input and another in the ouput, because if the spring is characterized, the torsion may be measured and provide a nice input for a more refined control. And so, the N20 series elastic actuator (SEA) was born. This first design was too weak (the printed spring broke easily), it was tested on a quadruped with 4 5-link legs, the (Pochitabot)[https://github.com/jkugalde/Pochitabot].
 
-There are some pictures and videos (HERE)[https://www.instagram.com/p/CnvOr4BjYhp/?igsh=cnA1MmIxdGFscnZx]. The drivers were damaged after some testings.
+There are some pictures and videos [HERE](https://www.instagram.com/p/CnvOr4BjYhp/?igsh=cnA1MmIxdGFscnZx). The drivers were damaged after some testings.
 
 ### Modular series elastic actuator II
 

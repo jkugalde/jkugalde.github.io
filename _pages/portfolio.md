@@ -17,15 +17,20 @@ Projects that I have been developing in my house at my free time.
 
 ### 1. [N20 Quadruped robot project](https://jkugalde.github.io/portfolio/quad/)
 
-<img src ="https://i.imgur.com/XjRepFi.jpeg" width="600">
+![quad](https://i.imgur.com/XjRepFi.jpeg)
 
 ### 2. [3DP SCARA Arm](https://github.com/jkugalde/SCARA-3DP)
 
-<img src ="https://i.imgur.com/l6rDe6A.png" width="400">
+![scar](https://i.imgur.com/l6rDe6A.png)
+
 
 ### 3. [Anet A8 Marlinification](https://jkugalde.github.io/portfolio/aneta8upgrade/)
 
-<img src ="https://i.imgur.com/2vLRb1v.png" width="550">
+![anet](https://i.imgur.com/2vLRb1v.png)
+
+### 4. [Twisted belt reducer](https://github.com/jkugalde/Twisted-belt-reducer)
+
+![wiwiwuw (2)](https://i.imgur.com/snU1ngG.jpeg)
 
 # Soft robotics at the University of Chile
 
@@ -33,64 +38,99 @@ These are the main projects in which I work, mostly during my time as R.A in the
 
 ### 1. [Soft robot worm](https://jkugalde.github.io/portfolio/worms/)
 
-<img src ="https://i.imgur.com/lJXCLit.png" width="550">
+![gus](https://i.imgur.com/lJXCLit.png)
 
 ### 2. [Soft modular robots](https://jkugalde.github.io/portfolio/softmodularrobots/)
 
-<img src ="https://i.imgur.com/KftGXuz.png)" width="350">
+<img src ="https://i.imgur.com/KftGXuz.png)" width="500">
 
 ### 3. [Liquid on liquid printer](https://jkugalde.github.io/portfolio/softprinter/)
 
-<img src ="https://i.imgur.com/NDDGl3u.png)" width="500">
+![liki](https://i.imgur.com/NDDGl3u.png)
 
 # Projects developed at Fablab U de Chile
 
-(THIS SECTION IS IN CONSTRUCTION)
+### 1. [Biomixer](https://gitlab.com/fablab-u-de-chile/biomixer)
 
-### 1. [Biomixer](https://jkugalde.github.io/portfolio/biomixer/)
-### 2. [Rotocasting machine](https://jkugalde.github.io/portfolio/rotocaster/) 
-### 3. [Vacuum former](https://jkugalde.github.io/portfolio/vacuum-former/) 
+![biomim](https://i.imgur.com/s7Zcqwo.jpeg)
+
+### 2. [Rotocasting machine](https://github.com/jkugalde/Rotocaster) 
+
+![otherview](https://i.imgur.com/HzTpWtC.png)
+
+### 3. [Vacuum former](https://gitlab.com/fablab-u-de-chile/termoformadora)
+
+![termofom](https://i.imgur.com/sKLjAOZ.png)
+
 ### 4. [B.AMBU, an emergency mechanical ventilator](https://jkugalde.github.io/portfolio/bambu/)
+
+![bambu](https://i.imgur.com/X2jwFiW.jpeg)
+
 ### 5. [SILC-a, rock impact testing machine](https://jkugalde.github.io/portfolio/silc/)
+
+![silkismut](https://i.imgur.com/usGSoeK.png)
+
 ### 6. [Biomonitor](https://jkugalde.github.io/portfolio/biomonitor/)
+
+![biomimi2](https://i.imgur.com/zBK5MS3.png)
+
 ### 7. [Video laringoscope](https://jkugalde.github.io/portfolio/laringoscope/)
-### 8. [Paste extruder](https://jkugalde.github.io/portfolio/pastextruder/)
-### 9. [Scaffolding for bone regenerating  implant](https://jkugalde.github.io/portfolio/pellet/)
-### 10. [Moulded parts for museum installation](https://jkugalde.github.io/portfolio/pellet/)
 
+![lar](https://i.imgur.com/liZYrfe.png)
 
-12. [3DP Flow sensor](https://jkugalde.github.io/portfolio/flowi/)
+### 8. [Paste extruder](https://github.com/jkugalde/Syringe-extruder)
+
+![inyec](https://i.imgur.com/XdKKzzu.jpeg)
+
+### 9. [Scaffolding for bone regenerating  implant](https://jkugalde.github.io/portfolio/scaff/)
+
+![scaff](https://i.imgur.com/WhLSkjM.jpeg)
+
+### 10. [Moulded parts for museum installation](https://laderasur.com/articulo/la-primera-muestra-permanente-del-reino-fungi-en-chile-ya-es-una-realidad-la-innovadora-sala-esta-ubicada-en-el-mim/)
+
+![mimsi](https://i.imgur.com/shJIKzg.jpeg)
 
 ##### Minor devices
 
-### 1. [Peristaltic pumps](https://jkugalde.github.io/portfolio/ppstep/) 
-### 2. [Powder dispensers](https://jkugalde.github.io/portfolio/powderdispenser/)
+### 1. [Peristaltic pumps](https://jkugalde.github.io/portfolio/ppstep/)
+
+![cadesign](https://i.imgur.com/6Vrknm0.png)
+
+### 2. [Powder dispensers](https://grabcad.com/library/powder-dispenser-6)
+
+![pows](https://i.imgur.com/UxwKIJl.png)
+
 ### 3. [3DP electroacoustic levitator](https://jkugalde.github.io/portfolio/levitator/)
 
-
+![levpic](https://i.imgur.com/vDh7AZ7.jpeg)
 
 # Freelance projects
 
-(THIS SECTION IS IN CONSTRUCTION)
-
 ### 1. [SBF Robot cell](https://jkugalde.github.io/portfolio/sbf/)
+
+![cel](https://i.imgur.com/7gE1tl2.png)
 ### 2. [Peristaltic pump for glue](https://jkugalde.github.io/portfolio/pglue/)
+
+![peristi](https://i.imgur.com/5JqMigu.png)
+
 ### 3. [Automatic dispenser for pruning paste](https://jkugalde.github.io/portfolio/prune/)
+
+![pruni](https://i.imgur.com/25LrpSq.png)
 
 # Digital craftmanship
 
 ### 1. [Guitar vase](https://jkugalde.github.io/portfolio/vaseg/)
 
-<img src ="https://i.imgur.com/C1g62Bw.png" width="400">
+![vase](https://i.imgur.com/C1g62Bw.png)
 
 ### 2. [3DP Guitar capo](https://jkugalde.github.io/portfolio/3dpcapo/)
 
-<img src ="https://i.imgur.com/TpreHJI.png" width="400">
+![capo](https://i.imgur.com/TpreHJI.png)
 
 ### 3. [Kitsune mask](https://jkugalde.github.io/portfolio/mask/)
 
-<img src ="https://i.imgur.com/nRH6E03.png" width="400">
+![kitsun](https://i.imgur.com/nRH6E03.png)
 
 ### 4. [Maracas llaneras](https://www.thingiverse.com/thing:6457595)
 
-<img src ="https://i.imgur.com/oKGwwFS.png" width="400">
+![marak](https://i.imgur.com/oKGwwFS.png)
