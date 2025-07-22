@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I'm currently studying a master of science in mechanical engineering at Politecnico di Milano, specializing on mechatronics and robotics. 
+Hi, my name is Joakin Ugalde, a chilean mechanical engineer interested in digital fabrication, automation and robotics. Knowing how things work and how to make them is what has been leading my career development (and part of my hobbies), that is why I'm currently studying a master of science in mechanical engineering at University of Chile.
 
-I spent most of my professional life working at the University of Chile in different roles, such as research assistant, fablab staff, project developer, lecturer. My CV is [here](https://jkugalde.github.io/files/JUgalde_2024.pdf)
+I spent most of my professional life working at the same university in different roles, such as research assistant, fablab staff, project developer, lecturer. 
 
 ---
 
